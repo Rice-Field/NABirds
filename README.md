@@ -21,7 +21,7 @@ Application: [Knest](https://github.com/adcrn/knest)<br />
 	* ratio of body part distance used to determine extra space around parts for box
 		+ helped prevent BB becoming cross section of the face
 		+ image size taken into account to prevent extending beyond
-- all BBs were tested for errors and cropped from each image to confirm correctly size
+- all BBs were tested for errors and cropped from each image to confirm correct size
 - these images were split into 38,824 training images and 8,000 test images
 
 ![Examples](images/examples.png)
